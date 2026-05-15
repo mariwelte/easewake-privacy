@@ -8,9 +8,9 @@ EaseWake is a local alarm app. We respect your privacy by not collecting it.
 
 Responsible for data processing within the meaning of Art. 4(7) GDPR:
 
-Mario Welte  
-Winkelgasse 1  
-6800 Feldkirch  
+Mario Welte<br>
+Winkelgasse 1<br>
+6800 Feldkirch<br>
 Austria
 
 Email: support@easewake.com
@@ -60,10 +60,22 @@ To exercise these rights, contact us at the email address above.
 
 You have the right to lodge a complaint with a supervisory authority. The competent authority for Austria is:
 
-Österreichische Datenschutzbehörde
-Barichgasse 40-42
+Österreichische Datenschutzbehörde<br>
+Barichgasse 40-42<br>
 1030 Vienna, Austria
+
 [https://www.dsb.gv.at](https://www.dsb.gv.at)
+
+## California residents (CCPA / CPRA)
+
+Although we do not meet the applicability thresholds of the California Consumer Privacy Act (CCPA) or the California Privacy Rights Act (CPRA), we believe California residents should know:
+
+- We do not sell or share personal information.
+- We do not collect "sensitive personal information" as defined by CPRA.
+- We do not engage in targeted advertising.
+- The rights granted by CCPA / CPRA — to know, delete, correct, and opt-out of sale or sharing — are functionally satisfied by the fact that we do not collect personal data through the app.
+
+To exercise any rights you believe apply, contact us at the email address above.
 
 ## To remove all data
 
