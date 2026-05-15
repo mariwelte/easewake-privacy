@@ -8,9 +8,9 @@ EaseWake is a local alarm app. We respect your privacy by not collecting it.
 
 Responsible for data processing within the meaning of Art. 4(7) GDPR:
 
-Mario Welte
-Winkelgasse 1
-6800 Feldkirch
+Mario Welte  
+Winkelgasse 1  
+6800 Feldkirch  
 Austria
 
 Email: support@easewake.com
